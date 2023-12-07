@@ -4,6 +4,8 @@ This tool is used for statistics and analysis of collected fuel data from [Sprit
 
 To use the Spritmonitor API ([API Docs](https://api.spritmonitor.de/doc)) you need to generate an API Token which can be found on the password page of your profile.
 
+### Current Status: Waiting for API credentials from provider
+
 ## Feature List
 Feature|Description|Implemented
 ---|---|---
